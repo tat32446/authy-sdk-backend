@@ -16,5 +16,5 @@ ENV["INTEGRATION_API_KEY_STG"] = "some_data_here"
 
 # Environment variables needed for phone verification
 
-ENV["APP_ID"] = "app_id"
-ENV["AUTHY_API_KEY"] = "api_key"
+ENV["APP_ID"] = "325487"
+ENV["AUTHY_API_KEY"] = "8SbSf5ViI8jmPsGOBnw4lg0MTaF9Bp0a"
